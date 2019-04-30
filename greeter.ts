@@ -9,3 +9,4 @@ var greeter = new Greeter("Hello, world!");
 
 document.body.innerHTML = greeter.greet();
 // test comment
+// another test comment
